@@ -1,0 +1,32 @@
+.patient{
+    &-conditions {
+        margin-top: 30px;
+    } 
+
+    &-information {
+        display: flex;
+        flex-direction: column;
+
+        .copy-container {
+            display: inline-block;
+            margin: 5px;
+
+            .copy-s {
+                display: flex;
+                flex-direction: row;
+            }
+        }
+    } 
+
+    &-form {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+
+        input {
+            border: 1px solid grey;
+            margin: 0 5px;
+        }
+    }
+}
+
