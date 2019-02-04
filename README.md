@@ -1,4 +1,4 @@
-##Patient Lookup Using SMART on FHIR & PubMed
+##Patient Lookup Using SMART on FHIR & PubMed APIs
 
 ## Available Scripts
 
